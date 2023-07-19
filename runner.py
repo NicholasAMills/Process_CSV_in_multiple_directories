@@ -1,7 +1,3 @@
-'''
-This program walks through the 'Files' directory and looks for relevant .csv files, read them and count how many lines it has then store that output to a new .csv file
-'''
-
 import os
 import csv
 import pandas as pd
